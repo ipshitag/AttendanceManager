@@ -16,4 +16,4 @@ Attendance Manager to keep a check on number of absents done.
 ![Image 3](https://github.com/ipshitag/AttendanceManager/blob/master/ss3.jpeg)
 
 <hr>
-:squirrel: :octocat:
+:shipit: :octocat:
